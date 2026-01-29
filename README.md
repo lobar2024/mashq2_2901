@@ -1,2 +1,2 @@
 # mashq2_2901
-List mavzusiga bir qabcha misollar
+List mavzusiga bir qancha misollar
